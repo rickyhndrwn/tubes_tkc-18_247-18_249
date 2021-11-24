@@ -1,4 +1,4 @@
-# TugasPraktikumML-18_247-18_249
+# tubes_tkc-18_247-18_249
 Repo tugas kelompok Temu Kembali Citra 2021
 
 Judul Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
