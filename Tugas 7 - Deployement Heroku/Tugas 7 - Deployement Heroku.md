@@ -1,4 +1,4 @@
-### Link Github: [GitHub](https://github.com/rickyhndrwn/cbir-norm-pneu-247-249)
+### Link GitHub: [GitHub](https://github.com/rickyhndrwn/cbir-norm-pneu-247-249-v2)
 
 ### Link Heroku: [Heroku](https://cbir-norm-pneu-247-249.herokuapp.com/)
 
